@@ -103,5 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# dataset
+# dataset, videos
 data/
+video/
